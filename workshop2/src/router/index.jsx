@@ -14,7 +14,9 @@ const router = createBrowserRouter([
   
 ]},
     
-      { basename:"/React-Router.git",}
-]);
+      
+],
+{ basename:"/React-Router",}
+);
 
 export default router;
