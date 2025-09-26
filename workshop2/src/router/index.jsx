@@ -12,9 +12,9 @@ const router = createBrowserRouter([
     {path:"/about" , element:<AboutPages/>}
 
   
-]}
+]},
     
-       basename:"/React-Router.git",
+      { basename:"/React-Router.git",}
 ]);
 
 export default router;
